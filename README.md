@@ -16,9 +16,11 @@ Used PIL library to convert png to ico.
 My first attempt to scrape website of images. Some images are only loaded when in the viewport, so the rest of the page
 needed to rendered. requests_html use of Chromium made that possible.
 
-# maddie.py && maddie2.py
-Helped journalist collect her various stories from several websites in order to archive work.
-Collected text and other important resources.
+# getstories.py
+Scraped websites in order to consolidate author's articles into centralized archive
+
+# add-content.py
+Added content gathered from web scrap (above script) 
 
 # rename.py
 File processing for easier naming convention.
